@@ -1,0 +1,99 @@
+/* Rectangle 89  */
+.right-main-block {
+    position: relative;
+    display: flex;
+    height: 100px;
+    width: 100px;
+    background: #686AF3;
+    float: left
+}
+
+
+.cube-3d-figure-1 {
+
+
+    position: relative;
+    width: 108.86px;
+    height: 111.36px;
+    left: 850px;
+    top: 32.13px;
+
+    transform: rotate(-10.65deg);
+    float: left;
+
+}
+
+.cube-3d-figure-2 {
+
+
+    position: absolute;
+    width: 78px;
+    height: 85px;
+    left: 1100px;
+    top: 388px;
+
+    transform: rotate(25.8deg);
+
+}
+
+.main-image {
+    position: absolute;
+    left: 780px;
+    top: 120px;
+
+}
+
+.img-book {
+
+
+    position: absolute;
+    width: 39.51px;
+    height: 41.23px;
+    left: 800px;
+    top: 150px;
+
+    transform: rotate(22.01deg);
+
+
+}
+
+.img-star {
+
+
+    position: absolute;
+    width: 55px;
+    height: 61px;
+    left: 650px;
+    top: 500px;
+}
+
+.circle-3d-figure {
+
+
+    position: absolute;
+    width: 108px;
+    height: 116px;
+    left: 1021px;
+    top: -20px;
+
+}
+
+.layer-circle-1 {
+    position: absolute;
+    left: 800px;
+    top: 360px;
+}
+
+.right-main-block {
+    display: ;
+}
+
+/* Ellipse 67 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 421px;
+height: 410px;
+
+border: 1px solid rgba(255, 255, 255, 0.39);
